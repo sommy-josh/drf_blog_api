@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'blog_app',
     'posts',
     'rest_framework',
-    'coresheaders',
+    'corsheaders',
 ]
 REST_FRAMEWORK= {
     "DEFAULT_PERMISSION_CLASSES": [
